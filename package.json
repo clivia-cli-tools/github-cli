@@ -1,0 +1,26 @@
+{
+  "name": "github-cli",
+  "version": "1.0.0",
+  "description": "A utility to create github repos right from the cold comfort of your CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clivia-cli-tools/github-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clivia-cli-tools/github-cli/issues"
+  },
+  "homepage": "https://github.com/clivia-cli-tools/github-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.3.1",
+    "keytar": "^4.9.0",
+    "yargs": "^13.2.4"
+  }
+}
